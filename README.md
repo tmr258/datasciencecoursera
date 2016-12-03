@@ -1,3 +1,3 @@
 # datasciencecoursera
 
-# this is a repor for work under the course offered by Coursera
+# this is a repo for work under the course offered by Coursera
